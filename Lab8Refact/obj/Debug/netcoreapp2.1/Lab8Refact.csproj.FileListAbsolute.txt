@@ -1,0 +1,11 @@
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\bin\Debug\netcoreapp2.1\Lab8Refact.deps.json
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\bin\Debug\netcoreapp2.1\Lab8Refact.runtimeconfig.json
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\bin\Debug\netcoreapp2.1\Lab8Refact.runtimeconfig.dev.json
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\bin\Debug\netcoreapp2.1\Lab8Refact.dll
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\bin\Debug\netcoreapp2.1\Lab8Refact.pdb
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\obj\Debug\netcoreapp2.1\Lab8Refact.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\obj\Debug\netcoreapp2.1\Lab8Refact.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\obj\Debug\netcoreapp2.1\Lab8Refact.AssemblyInfoInputs.cache
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\obj\Debug\netcoreapp2.1\Lab8Refact.AssemblyInfo.cs
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\obj\Debug\netcoreapp2.1\Lab8Refact.dll
+C:\Users\Joe\source\repos\Lab8Refact\Lab8Refact\obj\Debug\netcoreapp2.1\Lab8Refact.pdb
